@@ -35,4 +35,5 @@ jobs:
         df -h
         which wget
         which curl
-       curl -X POST -H "Content-Type: application/json" -d 'There is a new update on github. Please check it out!' https://maker.ifttt.com/trigger/github_update/json/with/key/fjc9dhMH6fv5NzTgDUGqnnNSciO-BoBBr9HMiHO3GQm
+       curl -X POST -H "Content-Type: application/json" -d '"There is a new update on github. Please check it out!"' https://maker.ifttt.com/trigger/github_update/json/with/key/fjc9dhMH6fv5NzTgDUGqnnNSciO-BoBBr9HMiHO3GQm
+   
