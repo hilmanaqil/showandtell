@@ -8,3 +8,5 @@ test first workflow
 test second workflow
 
 test again
+
+test last
