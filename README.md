@@ -1,12 +1,3 @@
-# showandtell
-This is my repository for the show and tell
+Whenever any changes are pushed into the main branch of this repository, a message will be sent to my telegram group, informing the members of an update. 
 
-test 1 2 test 1 2
-
-test first workflow
-
-test second workflow
-
-test again
-
-test last
+Make any changes to the test.txt file to test out this functionality. 
